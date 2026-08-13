@@ -4,6 +4,8 @@ A simple command-line application built with Python that uses the GitHub API to 
 
 This project was created to practice working with APIs, JSON data, loops, conditional statements, user input, and command-line applications.
 
+https://roadmap.sh/projects/github-user-activity
+
 ## Features
 
 * Enter any GitHub username.
